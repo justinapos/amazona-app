@@ -1,1 +1,1 @@
-amazona-app =
+amazona-app
